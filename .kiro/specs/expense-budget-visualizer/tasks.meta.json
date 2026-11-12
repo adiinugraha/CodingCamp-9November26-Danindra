@@ -1,0 +1,195 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Create project file structure and HTML entry point": [
+      {
+        "executionId": "abf88d63-3281-49a0-9bc5-8c4777ee0a9a",
+        "chatSessionId": "sess_b9aa0776-f84a-43da-94a1-3295d2241870",
+        "timestamp": 1794502392873
+      }
+    ],
+    "2.1 Implement `StorageService` in `js/app.js`": [
+      {
+        "executionId": "2d71624b-d268-49fb-8e10-1c203a3e6e3d",
+        "chatSessionId": "sess_123661d7-2afe-48c4-90b7-bedb1bdc880e",
+        "timestamp": 1794502687393
+      },
+      {
+        "executionId": "2d71624b-d268-49fb-8e10-1c203a3e6e3d",
+        "chatSessionId": "sess_123661d7-2afe-48c4-90b7-bedb1bdc880e",
+        "timestamp": 1794502778765
+      }
+    ],
+    "2. Implement StorageService and browser compatibility guard": [
+      {
+        "executionId": "2d71624b-d268-49fb-8e10-1c203a3e6e3d",
+        "chatSessionId": "sess_123661d7-2afe-48c4-90b7-bedb1bdc880e",
+        "timestamp": 1794502778847
+      }
+    ],
+    "3.1 Implement the `state` object and mutation functions": [
+      {
+        "executionId": "973c0993-6f3f-410e-af1c-1ba790df590e",
+        "chatSessionId": "sess_90974985-cb89-4abc-a50f-6a5f3264322a",
+        "timestamp": 1794502793060
+      },
+      {
+        "executionId": "973c0993-6f3f-410e-af1c-1ba790df590e",
+        "chatSessionId": "sess_90974985-cb89-4abc-a50f-6a5f3264322a",
+        "timestamp": 1794502827286
+      }
+    ],
+    "3. Implement State layer (addTransaction / deleteTransaction)": [
+      {
+        "executionId": "973c0993-6f3f-410e-af1c-1ba790df590e",
+        "chatSessionId": "sess_90974985-cb89-4abc-a50f-6a5f3264322a",
+        "timestamp": 1794502827370
+      }
+    ],
+    "4.1 Implement the validation functions": [
+      {
+        "executionId": "cdaa6f33-57a5-4428-b49a-6f2a3750b66f",
+        "chatSessionId": "sess_127c5c70-4e73-466f-92a7-212138e66a89",
+        "timestamp": 1794502884123
+      },
+      {
+        "executionId": "cdaa6f33-57a5-4428-b49a-6f2a3750b66f",
+        "chatSessionId": "sess_127c5c70-4e73-466f-92a7-212138e66a89",
+        "timestamp": 1794502917736
+      }
+    ],
+    "4. Implement input validation logic": [
+      {
+        "executionId": "cdaa6f33-57a5-4428-b49a-6f2a3750b66f",
+        "chatSessionId": "sess_127c5c70-4e73-466f-92a7-212138e66a89",
+        "timestamp": 1794502917842
+      }
+    ],
+    "11.1 Write `css/style.css`": [
+      {
+        "executionId": "3632ef63-f931-4471-9553-be6bd26cc8b6",
+        "chatSessionId": "sess_47e26ab0-f3db-4eef-93e1-9581dcb16bda",
+        "timestamp": 1794503134650
+      },
+      {
+        "executionId": "3632ef63-f931-4471-9553-be6bd26cc8b6",
+        "chatSessionId": "sess_47e26ab0-f3db-4eef-93e1-9581dcb16bda",
+        "timestamp": 1794503229962
+      }
+    ],
+    "11. Apply CSS styling": [
+      {
+        "executionId": "3632ef63-f931-4471-9553-be6bd26cc8b6",
+        "chatSessionId": "sess_47e26ab0-f3db-4eef-93e1-9581dcb16bda",
+        "timestamp": 1794503230068
+      }
+    ],
+    "5.1 Bind `#expense-form` and wire submit handler in `js/app.js`": [
+      {
+        "executionId": "5c441ef8-5fb9-477b-a591-5b5abf4507a7",
+        "chatSessionId": "sess_886db313-bec3-44e6-ac9e-c1831c9a36cc",
+        "timestamp": 1794504276387
+      },
+      {
+        "executionId": "5c441ef8-5fb9-477b-a591-5b5abf4507a7",
+        "chatSessionId": "sess_886db313-bec3-44e6-ac9e-c1831c9a36cc",
+        "timestamp": 1794504324175
+      }
+    ],
+    "5. Implement InputForm component": [
+      {
+        "executionId": "5c441ef8-5fb9-477b-a591-5b5abf4507a7",
+        "chatSessionId": "sess_886db313-bec3-44e6-ac9e-c1831c9a36cc",
+        "timestamp": 1794504324257
+      }
+    ],
+    "10.1 Implement `init()` in `js/app.js`": [
+      {
+        "executionId": "0dce01ae-f974-4b7a-b285-c6c769c80b08",
+        "chatSessionId": "sess_62145117-d9d1-4d23-9655-f2e34604b573",
+        "timestamp": 1794504345694
+      },
+      {
+        "executionId": "0dce01ae-f974-4b7a-b285-c6c769c80b08",
+        "chatSessionId": "sess_62145117-d9d1-4d23-9655-f2e34604b573",
+        "timestamp": 1794504407022
+      }
+    ],
+    "10.2 Wire Local Storage unavailability warning banner": [
+      {
+        "executionId": "b460d3d9-0aa0-4479-b201-d67025b0511b",
+        "chatSessionId": "sess_a5b55693-c11d-4858-bb65-ebfc16ff511e",
+        "timestamp": 1794504558044
+      },
+      {
+        "executionId": "b460d3d9-0aa0-4479-b201-d67025b0511b",
+        "chatSessionId": "sess_a5b55693-c11d-4858-bb65-ebfc16ff511e",
+        "timestamp": 1794504614703
+      }
+    ],
+    "10. Implement AppController and wire all components": [
+      {
+        "executionId": "b460d3d9-0aa0-4479-b201-d67025b0511b",
+        "chatSessionId": "sess_a5b55693-c11d-4858-bb65-ebfc16ff511e",
+        "timestamp": 1794504614798
+      }
+    ],
+    "6.1 Implement `renderBalance(transactions)` bound to `#balance-display`": [
+      {
+        "executionId": "5a96cf40-7991-40de-93a3-c47472e69b4b",
+        "chatSessionId": "sess_f950fd1f-ef6b-49bf-bca5-e7052e4eada0",
+        "timestamp": 1794504692512
+      },
+      {
+        "executionId": "5a96cf40-7991-40de-93a3-c47472e69b4b",
+        "chatSessionId": "sess_f950fd1f-ef6b-49bf-bca5-e7052e4eada0",
+        "timestamp": 1794504740957
+      }
+    ],
+    "6. Implement BalanceDisplay component": [
+      {
+        "executionId": "5a96cf40-7991-40de-93a3-c47472e69b4b",
+        "chatSessionId": "sess_f950fd1f-ef6b-49bf-bca5-e7052e4eada0",
+        "timestamp": 1794504741047
+      }
+    ],
+    "7.1 Implement `renderTransactionList(transactions)` bound to `#transaction-list`": [
+      {
+        "executionId": "d8ea1fd1-3ca1-424c-80f3-be55d48b95e2",
+        "chatSessionId": "sess_15504ffd-e6d3-4482-b341-29b3fbdfd956",
+        "timestamp": 1794504754652
+      },
+      {
+        "executionId": "d8ea1fd1-3ca1-424c-80f3-be55d48b95e2",
+        "chatSessionId": "sess_15504ffd-e6d3-4482-b341-29b3fbdfd956",
+        "timestamp": 1794504787777
+      }
+    ],
+    "7. Implement TransactionList component": [
+      {
+        "executionId": "d8ea1fd1-3ca1-424c-80f3-be55d48b95e2",
+        "chatSessionId": "sess_15504ffd-e6d3-4482-b341-29b3fbdfd956",
+        "timestamp": 1794504787930
+      }
+    ],
+    "9.1 Implement category spending aggregation helper": [
+      {
+        "executionId": "23eba07c-0786-43a8-bdc4-3c8fcbb58e4d",
+        "chatSessionId": "sess_a5afea1a-f77c-47fd-8b58-5b01945b9f66",
+        "timestamp": 1794504898658
+      },
+      {
+        "executionId": "23eba07c-0786-43a8-bdc4-3c8fcbb58e4d",
+        "chatSessionId": "sess_a5afea1a-f77c-47fd-8b58-5b01945b9f66",
+        "timestamp": 1794504948450
+      }
+    ],
+    "9.3 Implement `renderPieChart(transactions)` bound to `#pie-chart-canvas`": [
+      {
+        "executionId": "23eba07c-0786-43a8-bdc4-3c8fcbb58e4d",
+        "chatSessionId": "sess_a5afea1a-f77c-47fd-8b58-5b01945b9f66",
+        "timestamp": 1794504953993
+      }
+    ]
+  }
+}
